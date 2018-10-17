@@ -1,0 +1,22 @@
+From highest percent slot to lowest
+Attack:  Gear: WalkersOfAmbush
+Attack:  Gear: TheGreatPredatorCarapace
+Attack:  Gear: BasaltStompers
+Attack:  Gear: WebWeavers
+Attack:  Gear: LavalordArmor
+Defense: Gear: SerpenterRing
+Defense: Gear: BasiliskPendant
+Defense: Gear: SilverSalvation
+Defense: Gear: RedDragonEgg
+Defense: Gear: VenomousSpinner
+Magic:   Gear: ImmaculateCrown
+Magic:   Gear: GoldenArchangelArmor
+Magic:   Gear: GoldenCodex
+Magic:   Gear: HoodOfClairvoyance
+Magic:   Gear: GuidingFire
+Health:  Gear: VolcanicGloves
+Health:  Gear: HundredBlessingsRing
+Health:  Gear: SacredPathBoots
+Health:  Gear: LavaCrown
+Health:  Gear: TinyAssassinNecklace
+Bonus Per Gear attack: 1508  defense: 1382  magic: 1482  health: 1575

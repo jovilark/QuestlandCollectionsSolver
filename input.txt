@@ -1,0 +1,74 @@
+x. gear: g GearName GearType BoostLevel BaseAtk BaseDef BaseMgc BaseHlt OffenseLink1ID Val OffenseLink2ID Val DefenseLinkID Val
+x. gear: g OwlKingCrown Helmet 0 1904 1536 1184 1258 GoldenArchangelArmor 22 SacredPathBoots 22 ShadowClaws 21 W
+x. gear types: Helmet Armor Boots Gloves Pendant Talisman Ring
+x. collection: c h1    h2     h3    h4    h5   a1    a2    a3    a4   a5    d1    d2     d3   d4    d5    m1    m2    m3    m4    m5
+x. collection: c 17.55 19.02 18.93 16.87 15.67 15.9 17.08 16.12 20.52 21.57 15.57 16.96 15.56 20.34 20.09 18.15 19.55 17.64 15.41 16.15
+
+g OwlKingCrown Helmet 74 1904 1536 1184 1258 GoldenArchangelArmor 22 O SacredPathBoots 22 O ShadowClaws 21 D W
+g TheDragonhorn Helmet 75 1921 1254 1275 1606 WebWeavers 22 O SilverSalvation 22 O SorceryStomps 21 D M
+g ImmaculateCrown Helmet 71 1776 1206 1200 1512 VolcanicGloves 23 O PathseekerPendant 21 O SacredPathBoots 21 D M
+g ToxicGrin Helmet 70 1776 1472 1110 1184 StoneLabyrinthArmor 23 O Pathseekers 23 O WebWeavers 23 D W
+g LavaCrown Helmet 66 1635 1430 1064 1110 HellgateArmor 23 O IceTearPendant 23 O VolcanicGloves 22 D W
+g HoodOfClairvoyance Helmet 67 1635 1156 1125 1440 ClawsOfBlizzard 23 O DevilsGripGloves 22 O PathSeekers 20 D M
+
+g ShadowOwlArmor Armor 76 2052 1560 1258 1309 ImmaculateCrown 23 O WalkersOfAmbush 23 O OwlerRing 21 D W
+g DragonPriestArmor Armor 75 2070 1188 1332 1554 ToxicGrin 23 O GoldenCodex 22 O PawsOfMagic 21 D M
+g GoldenArchangelArmor Armor 71 1921 1139 1200 1512 LavaCrown 22 O GuidingFire 22 O GlovesOfGrace 21 D M
+g TheGreatPredatorCarapace Armor 70 1921 1495 1184 1232 HoodOfClairvoyance 23 O BasaltStompers 23 O VenomousSpinner 22 D W
+g LavalordArmor Armor 68 1776 1452 1110 1155 GlacierStompers 22 O HearthOfHellPendant 22 O BasaltMask 21 D W
+g StoneLabyrinthArmor Armor 67 1776 1072 1184 1387 LiquidIce 22 O DiabolicStompers 22 O GrapevineGloves 20 D M
+
+g ShadowClaws Gloves 74 1938 1541 1258 1275 SacredPathBoots 23 O VenomousSpinner 22 O OwlKingCrown 21 D W
+g GlovesOfGrace Gloves 70 2034 1122 1184 1387 BasaltStompers 22 O GrapevineGloves 22 O GoldenArchangelArmor 21 D M
+g WebWeavers Gloves 70 1808 1474 1184 1200 PathSeekers 23 O BasaltMask 23 O ToxicGrin 21 D W
+g VolcanicGloves Gloves 66 1665 1428 1110 1125 RedDevil 22 O GlacierStompers 23 O LavaCrown 21 D W
+g GrapevineGloves Gloves 66 1887 1088 1110 1314 DiabolicStompers 23 O CursedIcebergArmor 22 O StoneLabyrinthArmor 21 D M
+g PawsOfMagic Gloves 75 2185 1188 1332 1480 WalkersOfAmbush 22 O GlovesOfGrace 22 O DragonPriestArmor 21 D M
+
+g ShadowTalons Boots 75 1921 1584 1258 1309 GlovesOfGrace 23 O TheGreatPredatorCarapace 23 O PoisonFeathers 21 D W
+g SacredPathBoots Boots 70 1904 1188 1200 1368 LavalordArmor 22 O InnerFirePendant 22 O ImmaculatePendant 21 D M
+g WalkersOfAmbush Boots 71 1792 1518 1184 1232 GrapevineGloves 22 O LavalordArmor 23 O TinyAssassinNecklace 21 D W
+g BasaltStompers Boots 67 1650 1474 1125 1155 CursedIcebergArmor O 23 DemonLegionScroll 23 O InnerFirePendant 21 D W
+g PathSeekers Boots 66 1760 1139 1125 1296 IceTearPendant 22 O GlacierBeastRing 22 O HoodOfClairvoyance 21 D M
+g SorceryStomps Boots 74 2052 1254 1275 1460 TheGreatPredatorCarapace 23 O TinyAssassinNecklace 22 O TheDragonhorn 22 D M
+
+g SilverSalvation Pendant 70 1938 1122 1275 1368 VenomousSpinner 20 D HoodOfClairvoyance 21 O HundredBlessingsRing 23 O M
+g TinyAssassinNecklace Pendant 68 1824 1386 1110 1184 GoldenCodex 20 D RingOfLabyrinth 23 O WalkersOfAmbush 20 D W
+g InnerFirePendant Pendant 64 1695 1320 1050 1110 RingOfLabyrinth 20 D IceCrown 23 O BasaltStompers 20 D W
+g PathseekerPendant Pendant 66 1808 1072 1200 1296 LavalordRing 21 D HellgateArmor 23 O RingOfLabyrinth 21 O M
+g BasiliskPendant Pendant 73 2070 1188 1275 1480 PoisonFeathers 21 D WebWeavers 22 O NightVisionNecklace 23 O M
+g NightVisionNecklace Pendant 72 1955 1452 1184 1258 SerpenterRing 20 D GoldenArchangelArmor 22 O BasiliskPendant 22 O W
+
+g HundredBlessingsRing Ring 69 1921 1122 1200 1387 SilverSalvation 22 O LavaCrown 22 O EndlessComaRing 20 D M
+g EndlessComaRing Ring 71 1808 1386 1258 1285 GoldenCodex 23 O StoneLabyrinthArmor 22 O HundredBlessingsRing D 21 W
+g LavalordRing Ring 67 1680 1340 1168 1184 GuidingFire 22 O ClawsOfBlizzard 23 O PathseekerPendant 21 D W
+g RingOfLabyrinth Ring 65 1792 1072 1125 1314 PathseekerPendant 22 O RedDevil 23 O InnerFirePendant 20 D M
+g OwlerRing Ring 75 1938 1452 1332 1332 ShadowOwlArmor 23 O EndlessComaRing 22 O RedDragonEgg 22 D W
+g SerpenterRing Ring 74 2070 1188 1350 1460 RedDragonEgg 23 O ToxicGrin 22 O NightVisionNecklace 21 D M
+
+g VenomousSpinner Talisman 70 1776 1386 1258 1216 TheGreatPredatorCarapace 23 O LavalordRing 23 O SilverSalvation 21 D W
+g PoisonFeathers Talisman 74 1904 1452 1332 1292 ShadowTalons 22 D BasiliskPendant 21 D HundredBlessingsRing 23 A W
+g RedDragonEgg Talisman 75 2034 1254 1258 1554 SerpenterRing 23 O OwlerRing 22 D ImmaculateCrown 22 O M
+g GoldenCodex Talisman 71 1887 1188 1184 1460 EndlessComaRing 22 O VolcanicGloves 22 O TinyAssassinRing 21 D M
+g BasaltMask Talisman 66 1635 1320 1168 1140 LavalordArmor 23 O BaalsFangRing 23 O GuidingFire 21 D W
+g GuidingFire Talisman 67 1744 1139 1110 1387 LavalordRing 22 O BasaltMask 21 D DevilsGripGloves 23 O M
+
+x 'x' denotes a comment
+
+x : COLLECTION EXAMPLE c h1    h2     h3    h4    h5   a1    a2    a3    a4   a5    d1    d2     d3   d4    d5    m1    m2    m3    m4    m5
+x : COLLECTION EXAMPLE c 17.55 19.02 18.93 16.87 15.67 15.9 17.08 16.12 20.52 21.57 15.57 16.96 15.56 20.34 20.09 18.15 19.55 17.64 15.41 16.15
+c 17.55 19.02 18.93 16.87 15.67 15.9 17.08 16.12 20.52 21.57 15.57 16.96 15.56 20.34 20.09 18.15 19.55 17.64 15.41 16.15
+
+x : EQUIP EXAMPLE e GearName
+x : e ShadowOwlArmor
+
+e ShadowOwlArmor
+e OwlKingCrown
+e OwlerRing
+e PoisonFeathers
+e NightVisionNecklace
+e ShadowClaws
+e ShadowTalons
+
+x : REFORGE EXAMPLE rf GearName HealthBonus AttackBonus DefenseBonus MagicBonus
+x : rf ShadowOwlArmor 0 400 0 0
